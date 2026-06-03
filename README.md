@@ -1,5 +1,5 @@
 # apnacollegedemo
 this is my first git repository
 <br>
-Author- Yashita Singhal
+Author- Yashita Singhal (student )
 
